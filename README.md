@@ -26,6 +26,10 @@ No rules, just be kind, and make sure it’s active or useful.
 ### Nigeria
 - [ForLoop Africa](https://forloop.africa/)
 - [She Code Africa](https://shecodeafrica.org/)
+- [The Queen Arit Circle](https://proxy.nas.io/queenaritcircle)
+- [Open Source Community Africa](https://oscafrica.org/)
+- [MongoDB User Group Lagos](https://www.mongodb.com/community/user-groups/lagos/)
+
 
 ### Rwanda
 - [ReactJS Rwanda](https://discord.gg/6PjR3pEgPK)
