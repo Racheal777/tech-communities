@@ -18,9 +18,21 @@ Know an event? [Contribute here](../../CONTRIBUTING.md) or share in the Discussi
 
 ---
 
+### Uganda
 
+- **Kickstarting Your Journey with Google Cloud**
+  _Date:_ September 20, 2025
+  _Location:_ Makerere University, Jinja campus
+  _Organizer:_ GDG Cloud Jinja
+  _Link:_ [GDG Jinja](https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-kickstarting-your-journey-with-google-cloud/)
 
+- **TechX Uganda**
+  _Date:_ September 27, 2025
+  _Location:_ Makerere University & ICT Innovation Hub (Nakawa)
+  _Organizer:_ TechX Uganda
+  _Link:_ [GDG Kampala](https://gdg.community.dev/events/details/google-gdg-on-campus-makerere-university-kampala-uganda-presents-techx-uganda/)
 
+---
 
 ## 💬 Want to add your event?
 
