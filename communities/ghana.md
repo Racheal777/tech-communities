@@ -13,3 +13,5 @@ A list of tech communities  in or based in Ghana.
 - [Flutter Ghana](https://chat.whatsapp.com/F6jwOpWBatlEEGNs7hd8c5)
 - [Expo Ghana](https://chat.whatsapp.com/DSomWIk27tP4S7WfHMGYYQ)
 - [AI Ghana](https://aighana.org/)
+- [The Tech Circle Community](https://www.linkedin.com/company/the-tech-circle-community/)
+
